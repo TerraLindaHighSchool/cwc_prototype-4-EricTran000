@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/** 
+ * Controls the player
+ * Author: Eric Tran
+ * Version: 5/09/2022
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
